@@ -1,13 +1,16 @@
 ### 简易的图片浏览工具
 
-deepseek写的，方便内部网的其他人看本地文件夹的图片内容，不过目前是直接读取文件夹全部图片，大文件夹慎用
+
+方便内部网的其他人看本地文件夹的图片内容，不过目前是直接读取文件夹全部图片，大文件夹慎用
+
+deepseek写的，基于node.js
 
 !["example.png"](./img/example.png)
 
 
 + 在 `img` 文件夹放入图片
-+ 安装依赖 npm install express
-+ 运行node server.js
++ 安装依赖 `npm install express`
++ 终端下，运行 `node server.js`
 + 访问http://localhost:3000
 
 ---
