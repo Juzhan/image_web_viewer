@@ -2,6 +2,8 @@
 
 deepseek写的，方便内部网的其他人看本地文件夹的图片内容，不过目前是直接读取文件夹全部图片，大文件夹慎用
 
+!["example.png"](./img/example.png)
+
 
 + 在 `img` 文件夹放入图片
 + 安装依赖 npm install express
